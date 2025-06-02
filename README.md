@@ -2,23 +2,21 @@
 
 > A full-featured, modern remake of the 90's arcade classic built **from scratch in just 72 hours** using nothing but **Python 3** and **pygame**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S1VRdRigQuA" frameborder="0" allowfullscreen></iframe>
+#### [https://youtu.be/S1VRdRigQuA](https://youtu.be/S1VRdRigQuA)
+![Demo Preview](https://img.youtube.com/vi/S1VRdRigQuA/maxresdefault.jpg)
 
 ---
 
 ## Table of Contents
 1. [Why This Project?](#why-this-project)
 2. [Key Features](#key-features)
-3. [Screenshots](#screenshots)
-4. [Architecture Overview](#architecture-overview)
-5. [Project Structure](#project-structure)
-6. [Installation](#installation)
-7. [Running the Game](#running-the-game)
-8. [Controls](#controls)
-9. [Configuration & Modding](#configuration--modding)
-10. [Roadmap](#roadmap)
-11. [Contributing](#contributing)
-12. [License](#license)
+3. [Architecture Overview](#architecture-overview)
+4. [Project Structure](#project-structure)
+5. [Installation](#installation)
+6. [Running the Game](#running-the-game)
+7. [Controls](#controls)
+8. [Configuration & Modding](#configuration--modding)
+9. [Contributing](#contributing)
 
 ---
 
