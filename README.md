@@ -2,7 +2,8 @@
 
 > A full-featured, modern remake of the 90's arcade classic built **from scratch in just 72 hours** using nothing but **Python 3** and **pygame**.
 
-[![Watch the video](https://img.youtube.com/vi/S1VRdRigQuA/maxresdefault.jpg)](https://youtu.be/S1VRdRigQuA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S1VRdRigQuA" frameborder="0" allowfullscreen></iframe>
+
 ---
 
 ## Table of Contents
