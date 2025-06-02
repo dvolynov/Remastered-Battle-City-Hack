@@ -2,8 +2,7 @@
 
 > A full-featured, modern remake of the 90's arcade classic built **from scratch in just 72 hours** using nothing but **Python 3** and **pygame**.
 
-[![Gameplay Demo](https://img.youtube.com/vi/your-demo-link/hqdefault.jpg)](https://youtu.be/your-demo-link)
-
+[![Watch the video](https://img.youtube.com/vi/S1VRdRigQuA/maxresdefault.jpg)](https://youtu.be/S1VRdRigQuA)
 ---
 
 ## Table of Contents
@@ -38,17 +37,6 @@ Re-engineering Battle City within tight hackathon constraints is a stress-test o
 * 🎮 **Local Multiplayer**: plug in a second controller/keyboard.
 * 🖼 **Retro Aesthetic**: pixel-art sprites & CRT-style HUD.
 * 🧩 **Mod Ready**: drop new maps, sprites, or Python entities—no engine rebuild required.
-
----
-
-## Screenshots
-
-<p float="left">
-  <img src="docs/screen1.png" width="45%"/>
-  <img src="docs/screen2.png" width="45%"/>
-</p>
-
-(Place screenshots in `docs/` or change paths accordingly.)
 
 ---
 
@@ -91,8 +79,6 @@ Re-engineering Battle City within tight hackathon constraints is a stress-test o
 ├── requirements.txt
 └── README.md       # ← you are here
 ```
-
-> **Note:** folders may be renamed as development continues; see inline docstrings for authoritative API.
 
 ---
 
@@ -145,15 +131,6 @@ Gamepad mapping uses SDL's default layout.
 * **Levels** — Create a Tiled file with 16×16 tiles, export as `.tmx`, and save to `maps/`. New level appears in the menu automatically.
 * **Sprites** — Replace or add PNGs in `sprites/`, then regenerate atlases via `python tools/sprite_packer.py` (coming soon).
 * **Gameplay Tweaks** — Tweak `settings/constants.py` (tank speed, bullet damage, power-up frequency).
-
----
-
-## Roadmap
-
-- [ ] Online multiplayer (WebSockets or ENet-Python)
-- [ ] Built-in level editor
-- [ ] Procedural arena generator
-- [ ] Steam Deck & Raspberry Pi builds
 
 ---
 
